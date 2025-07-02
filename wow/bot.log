@@ -1,0 +1,640 @@
+2025-07-02 01:45:54,232 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not found!
+2025-07-02 01:45:54,234 - __main__ - ERROR - Please set your Discord bot token in the environment variables.
+2025-07-02 02:04:35,884 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:04:35,885 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:04:35,885 - discord.client - INFO - logging in using static token
+2025-07-02 02:04:35,886 - discord.client - INFO - logging in using static token
+2025-07-02 02:04:36,351 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:04:36,351 - __main__ - INFO - Automated data collection started
+2025-07-02 02:04:36,351 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:04:36,375 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:04:36,375 - __main__ - INFO - Automated data collection started
+2025-07-02 02:04:36,375 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:04:36,646 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:04:36,649 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:04:36,668 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:04:36,672 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:05:42,904 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:05:42,905 - discord.client - INFO - logging in using static token
+2025-07-02 02:05:43,104 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:05:43,109 - discord.client - INFO - logging in using static token
+2025-07-02 02:05:43,339 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:05:43,340 - __main__ - INFO - Automated data collection started
+2025-07-02 02:05:43,340 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:05:43,556 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:05:43,556 - __main__ - INFO - Automated data collection started
+2025-07-02 02:05:43,556 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:05:43,636 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:05:43,638 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:05:43,817 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:05:43,819 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:06:36,323 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:06:36,325 - discord.client - INFO - logging in using static token
+2025-07-02 02:06:36,328 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:06:36,329 - discord.client - INFO - logging in using static token
+2025-07-02 02:06:36,785 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:06:36,785 - __main__ - INFO - Automated data collection started
+2025-07-02 02:06:36,785 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:06:36,840 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:06:36,840 - __main__ - INFO - Automated data collection started
+2025-07-02 02:06:36,840 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:06:37,113 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:06:37,115 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:06:37,161 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:06:37,163 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:06:45,358 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:06:45,359 - discord.client - INFO - logging in using static token
+2025-07-02 02:06:45,366 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:06:45,367 - discord.client - INFO - logging in using static token
+2025-07-02 02:06:45,793 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:06:45,793 - __main__ - INFO - Automated data collection started
+2025-07-02 02:06:45,794 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:06:45,857 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:06:45,857 - __main__ - INFO - Automated data collection started
+2025-07-02 02:06:45,857 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:06:46,069 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:06:46,070 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:06:47,050 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-07-02 02:06:52,448 - __main__ - INFO - Bot is shutting down...
+2025-07-02 02:06:52,451 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-02 02:07:45,597 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:07:45,598 - discord.client - INFO - logging in using static token
+2025-07-02 02:07:45,602 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:07:45,603 - discord.client - INFO - logging in using static token
+2025-07-02 02:07:46,043 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:07:46,043 - __main__ - INFO - Automated data collection started
+2025-07-02 02:07:46,043 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:07:46,119 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 02:07:46,120 - __main__ - INFO - Automated data collection started
+2025-07-02 02:07:46,120 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 02:07:46,325 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7eda2c2721677555c8a046d5d224a79e).
+2025-07-02 02:07:46,409 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3356030405bb75e046004a75504f8aa9).
+2025-07-02 02:07:48,329 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 02:07:48,329 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 02:07:48,330 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 02:07:48,330 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 02:07:48,330 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 02:07:48,331 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 02:07:48,413 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 02:07:48,413 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 02:07:48,413 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 02:07:48,414 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 02:07:48,414 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 02:07:48,414 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 02:12:17,091 - bot.data_collector - INFO - Exported 1000 messages to data/exports/messages_hits_20250702_021217.csv
+2025-07-02 02:12:17,123 - bot.data_collector - INFO - Exported 1000 messages to data/exports/messages_hits_20250702_021217.json
+2025-07-02 02:12:17,830 - bot.data_collector - INFO - Exported 1000 messages to data/exports/messages_hits_20250702_021217.csv
+2025-07-02 02:12:17,884 - bot.data_collector - INFO - Exported 1000 messages to data/exports/messages_hits_20250702_021217.json
+2025-07-02 02:15:24,411 - bot.data_collector - INFO - Exported 2399 messages to data/exports/messages_hits_20250702_021524.csv
+2025-07-02 02:15:24,516 - bot.data_collector - INFO - Exported 2399 messages to data/exports/messages_hits_20250702_021524.json
+2025-07-02 02:15:25,770 - bot.data_collector - INFO - Exported 2399 messages to data/exports/messages_hits_20250702_021525.csv
+2025-07-02 02:15:25,857 - bot.data_collector - INFO - Exported 2399 messages to data/exports/messages_hits_20250702_021525.json
+2025-07-02 08:23:31,305 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:23:31,306 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:23:31,308 - discord.client - INFO - logging in using static token
+2025-07-02 08:23:31,308 - discord.client - INFO - logging in using static token
+2025-07-02 08:23:31,745 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:23:31,745 - __main__ - INFO - Automated data collection started
+2025-07-02 08:23:31,746 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:23:31,853 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:23:31,853 - __main__ - INFO - Automated data collection started
+2025-07-02 08:23:31,853 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:23:32,139 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 250d49d358805f1952fbc00340ea3da2).
+2025-07-02 08:23:32,211 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0b974f8977721072819d55415f85813a).
+2025-07-02 08:23:34,143 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:23:34,143 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:23:34,143 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:23:34,143 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:23:34,144 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:23:34,144 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 08:23:34,215 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:23:34,215 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:23:34,215 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:23:34,216 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:23:34,216 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:23:34,216 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 08:25:58,395 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:25:58,397 - discord.client - INFO - logging in using static token
+2025-07-02 08:25:58,414 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:25:58,415 - discord.client - INFO - logging in using static token
+2025-07-02 08:25:58,850 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:25:58,850 - __main__ - INFO - Automated data collection started
+2025-07-02 08:25:58,850 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:25:58,927 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:25:58,927 - __main__ - INFO - Automated data collection started
+2025-07-02 08:25:58,927 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:25:59,163 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2f5d1beba2a3f508ed359723b75c1af4).
+2025-07-02 08:25:59,213 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: abacd3be94c5ae5649840c7db0f97bd5).
+2025-07-02 08:26:01,167 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:26:01,167 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:26:01,168 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:26:01,168 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:26:01,168 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:26:01,169 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 08:26:01,216 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:26:01,217 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:26:01,217 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:26:01,217 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:26:01,218 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:26:01,218 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 08:26:14,593 - bot.data_collector - INFO - Exported 35 credentials to data/exports/credentials_hits_20250702_082614.csv
+2025-07-02 08:26:14,594 - bot.data_collector - INFO - Exported 35 credentials to data/exports/credentials_hits_20250702_082614.json
+2025-07-02 08:26:14,622 - bot.data_collector - INFO - Exported 35 credentials to data/exports/credentials_hits_20250702_082614.csv
+2025-07-02 08:26:14,624 - bot.data_collector - INFO - Exported 35 credentials to data/exports/credentials_hits_20250702_082614.json
+2025-07-02 08:28:38,615 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:28:38,616 - discord.client - INFO - logging in using static token
+2025-07-02 08:28:38,707 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:28:38,707 - discord.client - INFO - logging in using static token
+2025-07-02 08:28:39,132 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:28:39,132 - __main__ - INFO - Automated data collection started
+2025-07-02 08:28:39,133 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:28:39,145 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:28:39,146 - __main__ - INFO - Automated data collection started
+2025-07-02 08:28:39,146 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:28:39,463 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7a4c5b71856ee9bbd73f2e0b0d6ebea6).
+2025-07-02 08:28:39,464 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 64c18e1be221e5b8763b539714a2cf9f).
+2025-07-02 08:28:41,467 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:28:41,467 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:28:41,468 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:28:41,468 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:28:41,468 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:28:41,468 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:28:41,468 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:28:41,468 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:28:41,469 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:28:41,469 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 08:28:41,469 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:28:41,469 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 08:29:25,705 - bot.data_collector - INFO - Exported 24 credentials to data/exports/credentials_hits_20250702_082925.csv
+2025-07-02 08:29:25,706 - bot.data_collector - INFO - Exported 24 credentials to data/exports/credentials_hits_20250702_082925.json
+2025-07-02 08:29:25,949 - bot.data_collector - INFO - Exported 24 credentials to data/exports/credentials_hits_20250702_082925.csv
+2025-07-02 08:29:25,950 - bot.data_collector - INFO - Exported 24 credentials to data/exports/credentials_hits_20250702_082925.json
+2025-07-02 08:48:50,609 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 08:48:50,610 - discord.client - INFO - logging in using static token
+2025-07-02 08:48:51,415 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 08:48:51,415 - __main__ - INFO - Automated data collection started
+2025-07-02 08:48:51,415 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 08:48:52,109 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4d15d4ee652b896a8f29cc668184c244).
+2025-07-02 08:48:54,148 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 08:48:54,148 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 08:48:54,148 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 08:48:54,149 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 08:48:54,149 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 08:48:54,150 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:00:10,311 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:00:10,312 - discord.client - INFO - logging in using static token
+2025-07-02 09:00:11,287 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:00:11,287 - __main__ - INFO - Automated data collection started
+2025-07-02 09:00:11,287 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:00:11,955 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1002872b25044de124257b6ebf9969f8).
+2025-07-02 09:00:14,170 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:00:14,170 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:00:14,171 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:00:14,171 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:00:14,171 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:00:14,172 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:02:36,170 - bot.data_collector - INFO - Exported 6 credentials to data/exports/credentials_hits_20250702_090236.csv
+2025-07-02 09:02:36,171 - bot.data_collector - INFO - Exported 6 credentials to data/exports/credentials_hits_20250702_090236.json
+2025-07-02 09:04:11,848 - bot.data_collector - INFO - Exported 54 credentials to data/exports/credentials_hits_20250702_090411.csv
+2025-07-02 09:04:11,850 - bot.data_collector - INFO - Exported 54 credentials to data/exports/credentials_hits_20250702_090411.json
+2025-07-02 09:08:47,127 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:08:47,128 - discord.client - INFO - logging in using static token
+2025-07-02 09:08:47,655 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:08:47,656 - discord.client - INFO - logging in using static token
+2025-07-02 09:08:48,156 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:08:48,156 - __main__ - INFO - Automated data collection started
+2025-07-02 09:08:48,156 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:08:48,523 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:08:48,523 - __main__ - INFO - Automated data collection started
+2025-07-02 09:08:48,523 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:08:48,850 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8d33b90fd6e1872aac80033f7066d713).
+2025-07-02 09:08:49,239 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a718526aace6171c31828e8055cdf10e).
+2025-07-02 09:08:51,028 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:08:51,028 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:08:51,028 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:08:51,029 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:08:51,029 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:08:51,029 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:08:51,251 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:08:51,251 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:08:51,251 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:08:51,252 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:08:51,252 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:08:51,252 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:11:27,605 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:11:27,607 - discord.client - INFO - logging in using static token
+2025-07-02 09:11:28,396 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:11:28,396 - __main__ - INFO - Automated data collection started
+2025-07-02 09:11:28,396 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:11:29,083 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f233215ef5fc7a9eab3deaf931203687).
+2025-07-02 09:11:31,106 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:11:31,106 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:11:31,106 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:11:31,107 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:11:31,107 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:11:31,107 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:20:19,512 - bot.commands - ERROR - Error extracting credentials: dict contains fields not in fieldnames: 'verification_status', 'type'
+2025-07-02 09:20:19,893 - bot.commands - ERROR - Error extracting credentials: dict contains fields not in fieldnames: 'type', 'verification_status'
+2025-07-02 09:21:34,290 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:21:34,292 - discord.client - INFO - logging in using static token
+2025-07-02 09:21:35,064 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:21:35,064 - __main__ - INFO - Automated data collection started
+2025-07-02 09:21:35,064 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:21:35,793 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f7cc663e0d9d33ed03c472440b6468f4).
+2025-07-02 09:21:37,797 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:21:37,798 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:21:37,798 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:21:37,798 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:21:37,798 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:21:37,799 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:22:25,208 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:22:25,209 - discord.client - INFO - logging in using static token
+2025-07-02 09:22:25,807 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:22:25,808 - discord.client - INFO - logging in using static token
+2025-07-02 09:22:26,033 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:22:26,034 - __main__ - INFO - Automated data collection started
+2025-07-02 09:22:26,034 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:22:26,792 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:22:26,792 - __main__ - INFO - Automated data collection started
+2025-07-02 09:22:26,792 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:22:27,074 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7635ba4081abde48e11a8386d0ce4347).
+2025-07-02 09:22:27,545 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a15cd925224d8b4b08bbd10be0fc93b5).
+2025-07-02 09:22:29,101 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:22:29,101 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:22:29,101 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:22:29,102 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:22:29,102 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:22:29,102 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:22:29,554 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:22:29,554 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:22:29,554 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:22:29,554 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:22:29,555 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:22:29,555 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:23:05,765 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092305.csv
+2025-07-02 09:23:05,772 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092305.json
+2025-07-02 09:23:05,962 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092305.csv
+2025-07-02 09:23:05,968 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092305.json
+2025-07-02 09:26:10,348 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 7635ba4081abde48e11a8386d0ce4347.
+2025-07-02 09:26:19,261 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:26:19,262 - discord.client - INFO - logging in using static token
+2025-07-02 09:26:20,109 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:26:20,110 - __main__ - INFO - Automated data collection started
+2025-07-02 09:26:20,110 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:26:20,829 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 81d3c1d3fcb47356d9cbc7d6d4c4d36a).
+2025-07-02 09:26:22,856 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:26:22,856 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:26:22,856 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:26:22,857 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:26:22,857 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:26:22,857 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:27:28,483 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092728.csv
+2025-07-02 09:27:28,489 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092728.json
+2025-07-02 09:27:29,128 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092729.csv
+2025-07-02 09:27:29,132 - bot.data_collector - INFO - Exported 196 credentials to data/exports/credentials_hits_20250702_092729.json
+2025-07-02 09:32:36,027 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:32:36,028 - discord.client - INFO - logging in using static token
+2025-07-02 09:32:36,845 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:32:36,846 - __main__ - INFO - Automated data collection started
+2025-07-02 09:32:36,846 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:32:37,683 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 780c16ee1978a534e702e1c4a03baa3f).
+2025-07-02 09:32:39,706 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:32:39,706 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:32:39,707 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:32:39,707 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:32:39,707 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:32:39,708 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:33:33,206 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:33:33,207 - discord.client - INFO - logging in using static token
+2025-07-02 09:33:34,169 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:33:34,170 - __main__ - INFO - Automated data collection started
+2025-07-02 09:33:34,170 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:33:34,320 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:33:34,321 - discord.client - INFO - logging in using static token
+2025-07-02 09:33:34,832 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6e4eb51d9b1d4a5f100afb737e37bc07).
+2025-07-02 09:33:35,283 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:33:35,284 - __main__ - INFO - Automated data collection started
+2025-07-02 09:33:35,284 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:33:35,990 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2c7b1bf66bc9d8a8e2e4a2a57ca9cf26).
+2025-07-02 09:33:36,859 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:33:36,859 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:33:36,859 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:33:36,859 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:33:36,860 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:33:36,860 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:33:38,189 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:33:38,189 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:33:38,189 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:33:38,190 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:33:38,190 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:33:38,190 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:39:03,627 - bot.data_collector - INFO - Exported 194 credentials to data/exports/credentials_cookies_20250702_093903.csv
+2025-07-02 09:39:03,639 - bot.data_collector - INFO - Exported 194 credentials to data/exports/credentials_cookies_20250702_093903.json
+2025-07-02 09:39:03,641 - bot.data_collector - INFO - Exported 194 simplified credentials to data/exports/credentials_cookies_20250702_093903_simple.csv
+2025-07-02 09:39:03,642 - bot.data_collector - INFO - Exported 194 simplified credentials to data/exports/credentials_cookies_20250702_093903_simple.json
+2025-07-02 09:39:04,170 - bot.data_collector - INFO - Exported 194 credentials to data/exports/credentials_cookies_20250702_093904.csv
+2025-07-02 09:39:04,177 - bot.data_collector - INFO - Exported 194 credentials to data/exports/credentials_cookies_20250702_093904.json
+2025-07-02 09:39:04,180 - bot.data_collector - INFO - Exported 194 simplified credentials to data/exports/credentials_cookies_20250702_093904_simple.csv
+2025-07-02 09:39:04,188 - bot.data_collector - INFO - Exported 194 simplified credentials to data/exports/credentials_cookies_20250702_093904_simple.json
+2025-07-02 09:41:42,002 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:41:42,003 - discord.client - INFO - logging in using static token
+2025-07-02 09:41:42,842 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:41:42,842 - __main__ - INFO - Automated data collection started
+2025-07-02 09:41:42,843 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:41:43,318 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:41:43,319 - discord.client - INFO - logging in using static token
+2025-07-02 09:41:43,799 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4821b3926ef5839c74f637fabcfb9669).
+2025-07-02 09:41:44,199 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:41:44,199 - __main__ - INFO - Automated data collection started
+2025-07-02 09:41:44,200 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:41:45,025 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ccc1399412e8632bb4351acdf2dc3831).
+2025-07-02 09:41:45,811 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:41:45,811 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:41:45,811 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:41:45,812 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:41:45,812 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:41:45,813 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:41:47,049 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:41:47,050 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:41:47,050 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:41:47,050 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:41:47,050 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:41:47,051 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:44:42,676 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:44:42,677 - discord.client - INFO - logging in using static token
+2025-07-02 09:44:43,609 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:44:43,609 - __main__ - INFO - Automated data collection started
+2025-07-02 09:44:43,609 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:44:44,320 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 623089e4444d89261d1c67b346d2a217).
+2025-07-02 09:44:46,347 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:44:46,347 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:44:46,348 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:44:46,348 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:44:46,349 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:44:46,349 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:45:28,042 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_094528.csv
+2025-07-02 09:45:28,048 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_094528.json
+2025-07-02 09:45:28,051 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_094528_simple.csv
+2025-07-02 09:45:28,054 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_094528_simple.json
+2025-07-02 09:50:33,996 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:50:33,996 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:50:33,997 - discord.client - INFO - logging in using static token
+2025-07-02 09:50:33,998 - discord.client - INFO - logging in using static token
+2025-07-02 09:50:34,844 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:50:34,846 - __main__ - INFO - Automated data collection started
+2025-07-02 09:50:34,847 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:50:34,988 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:50:34,989 - __main__ - INFO - Automated data collection started
+2025-07-02 09:50:34,989 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:50:35,533 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 09f7cf4b67b87afd0bc9bdb5b8977228).
+2025-07-02 09:50:36,257 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 062be453bc708b4f0fe11b9a61dd9151).
+2025-07-02 09:50:37,581 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:50:37,582 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:50:37,582 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:50:37,583 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:50:37,583 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:50:37,584 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:50:42,488 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:50:42,489 - discord.client - INFO - logging in using static token
+2025-07-02 09:50:43,492 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:50:43,492 - __main__ - INFO - Automated data collection started
+2025-07-02 09:50:43,492 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:50:44,748 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 02e2aa0ea9eb8c733bdcdf916b1e8013).
+2025-07-02 09:50:46,768 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:50:46,768 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:50:46,769 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:50:46,769 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:50:46,769 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:50:46,770 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:51:05,665 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_095105.csv
+2025-07-02 09:51:05,672 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_095105.json
+2025-07-02 09:51:05,675 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_095105_simple.csv
+2025-07-02 09:51:05,682 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_095105_simple.json
+2025-07-02 09:57:23,239 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:57:23,240 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 09:57:23,242 - discord.client - INFO - logging in using static token
+2025-07-02 09:57:23,248 - discord.client - INFO - logging in using static token
+2025-07-02 09:57:24,087 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:57:24,090 - __main__ - INFO - Automated data collection started
+2025-07-02 09:57:24,090 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:57:24,180 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 09:57:24,180 - __main__ - INFO - Automated data collection started
+2025-07-02 09:57:24,180 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 09:57:24,782 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 272a08b320593186e7363e7ea3e7edaa).
+2025-07-02 09:57:25,029 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 10a3a809f1270d1726cb65ccc7bb603e).
+2025-07-02 09:57:26,797 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:57:26,798 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:57:26,798 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:57:26,799 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:57:26,799 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:57:26,799 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:57:27,081 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 09:57:27,082 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 09:57:27,082 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 09:57:27,086 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 09:57:27,087 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 09:57:27,099 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 09:57:52,054 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_095752.csv
+2025-07-02 09:57:52,060 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_095752.json
+2025-07-02 09:57:52,062 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_095752_simple.csv
+2025-07-02 09:57:52,065 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_095752_simple.json
+2025-07-02 09:57:52,152 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_095752.csv
+2025-07-02 09:57:52,163 - bot.data_collector - INFO - Exported 247 credentials to data/exports/credentials_hits_20250702_095752.json
+2025-07-02 09:57:52,167 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_095752_simple.csv
+2025-07-02 09:57:52,170 - bot.data_collector - INFO - Exported 247 simplified credentials to data/exports/credentials_hits_20250702_095752_simple.json
+2025-07-02 10:22:18,800 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1387751634481709158/messages/1389914072429887548/reactions/%E2%9C%85/@me responded with 429. Retrying in 0.30 seconds.
+2025-07-02 10:22:19,477 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1387751634481709158/messages/1389914072392269875/reactions/%E2%9D%8C/@me responded with 429. Retrying in 0.30 seconds.
+2025-07-02 10:22:20,118 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/channels/1387751634481709158/messages/1389914072392269875/reactions/%E2%9D%8C/@me responded with 429. Retrying in 0.30 seconds.
+2025-07-02 10:23:15,966 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 10:23:15,967 - discord.client - INFO - logging in using static token
+2025-07-02 10:23:16,790 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 10:23:16,790 - __main__ - INFO - Automated data collection started
+2025-07-02 10:23:16,790 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 10:23:17,521 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 277750832eb9305ef977c6bef3ee50f7).
+2025-07-02 10:23:19,526 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 10:23:19,526 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 10:23:19,526 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 10:23:19,527 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 10:23:19,527 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 10:23:19,527 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 10:25:59,013 - bot.data_collector - INFO - Exported 3925 credentials to data/exports/credentials_complete_hits_20250702_102558.csv
+2025-07-02 10:25:59,230 - bot.data_collector - INFO - Exported 3925 credentials to data/exports/credentials_complete_hits_20250702_102558.json
+2025-07-02 10:25:59,304 - bot.data_collector - INFO - Exported 3925 simplified credentials to data/exports/credentials_complete_hits_20250702_102558_simple.csv
+2025-07-02 10:25:59,362 - bot.data_collector - INFO - Exported 3925 simplified credentials to data/exports/credentials_complete_hits_20250702_102558_simple.json
+2025-07-02 11:22:54,321 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 277750832eb9305ef977c6bef3ee50f7.
+2025-07-02 11:37:49,377 - bot.data_collector - INFO - Exported 741 credentials to data/exports/credentials_complete_cookies_20250702_113749.csv
+2025-07-02 11:37:49,413 - bot.data_collector - INFO - Exported 741 credentials to data/exports/credentials_complete_cookies_20250702_113749.json
+2025-07-02 11:37:49,481 - bot.data_collector - INFO - Exported 741 simplified credentials to data/exports/credentials_complete_cookies_20250702_113749_simple.csv
+2025-07-02 11:37:49,498 - bot.data_collector - INFO - Exported 741 simplified credentials to data/exports/credentials_complete_cookies_20250702_113749_simple.json
+2025-07-02 11:53:32,437 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 11:53:32,439 - discord.client - INFO - logging in using static token
+2025-07-02 11:53:33,345 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 11:53:33,345 - __main__ - INFO - Automated data collection started
+2025-07-02 11:53:33,345 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 11:53:34,035 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b26ead7c8759205a27a22f0c11298caf).
+2025-07-02 11:53:36,054 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 11:53:36,056 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 11:53:36,056 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 11:53:36,056 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 11:53:36,056 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 11:53:36,057 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 11:55:57,242 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 11:55:57,243 - discord.client - INFO - logging in using static token
+2025-07-02 11:55:58,091 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 11:55:58,091 - __main__ - INFO - Automated data collection started
+2025-07-02 11:55:58,091 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 11:55:58,472 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 11:55:58,473 - discord.client - INFO - logging in using static token
+2025-07-02 11:55:58,884 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e235ba9cbaa024655fb23e7c87b9efd6).
+2025-07-02 11:55:59,245 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 11:55:59,245 - __main__ - INFO - Automated data collection started
+2025-07-02 11:55:59,245 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 11:55:59,914 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cbc32cd3271bab35aa886f986ec64c5d).
+2025-07-02 11:56:00,903 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 11:56:00,903 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 11:56:00,903 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 11:56:00,904 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 11:56:00,904 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 11:56:00,904 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 11:56:01,937 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 11:56:01,938 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 11:56:01,938 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 11:56:01,938 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 11:56:01,938 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 11:56:01,939 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 11:59:50,143 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_115950.csv
+2025-07-02 11:59:50,154 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_115950.json
+2025-07-02 11:59:50,157 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_115950_simple.csv
+2025-07-02 11:59:50,165 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_115950_simple.json
+2025-07-02 11:59:50,720 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_115950.csv
+2025-07-02 11:59:50,732 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_115950.json
+2025-07-02 11:59:50,737 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_115950_simple.csv
+2025-07-02 11:59:50,744 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_115950_simple.json
+2025-07-02 12:02:29,851 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:02:29,853 - discord.client - INFO - logging in using static token
+2025-07-02 12:02:30,679 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:02:30,680 - __main__ - INFO - Automated data collection started
+2025-07-02 12:02:30,680 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:02:31,554 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fa23329bd18440d4a53719fd65ba0f8d).
+2025-07-02 12:02:33,575 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:02:33,575 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:02:33,576 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:02:33,576 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:02:33,576 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:02:33,576 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 12:04:19,964 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_120419.csv
+2025-07-02 12:04:19,981 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_120419.json
+2025-07-02 12:04:19,990 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_120419_simple.csv
+2025-07-02 12:04:20,001 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_120419_simple.json
+2025-07-02 12:04:21,046 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_120421.csv
+2025-07-02 12:04:21,060 - bot.data_collector - INFO - Exported 391 credentials to data/exports/token2_discord-token_20250702_120421.json
+2025-07-02 12:04:21,069 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_120421_simple.csv
+2025-07-02 12:04:21,081 - bot.data_collector - INFO - Exported 391 simplified credentials to data/exports/token2_discord-token_20250702_120421_simple.json
+2025-07-02 12:28:04,109 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:28:04,111 - discord.client - INFO - logging in using static token
+2025-07-02 12:28:05,036 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:28:05,037 - __main__ - INFO - Automated data collection started
+2025-07-02 12:28:05,037 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:28:05,195 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:28:05,196 - discord.client - INFO - logging in using static token
+2025-07-02 12:28:06,169 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 59d7e3a15fc61788ed85cf31a80cf2d4).
+2025-07-02 12:28:06,569 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:28:06,570 - __main__ - INFO - Automated data collection started
+2025-07-02 12:28:06,570 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:28:07,265 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1fccd478977e27b0165a23b75e09c391).
+2025-07-02 12:28:08,191 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:28:08,191 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:28:08,191 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:28:08,191 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:28:08,192 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:28:08,194 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 12:28:09,270 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:28:09,270 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:28:09,271 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:28:09,271 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:28:09,271 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:28:09,272 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 12:28:11,198 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:28:11,199 - discord.client - INFO - logging in using static token
+2025-07-02 12:28:11,973 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:28:11,973 - __main__ - INFO - Automated data collection started
+2025-07-02 12:28:11,973 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:28:12,719 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dab27d91a527b82f59e6b283eb561aae).
+2025-07-02 12:28:14,896 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:28:14,896 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:28:14,896 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:28:14,897 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:28:14,897 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:28:14,897 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 12:29:21,667 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:29:21,668 - discord.client - INFO - logging in using static token
+2025-07-02 12:29:22,471 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:29:22,471 - __main__ - INFO - Automated data collection started
+2025-07-02 12:29:22,471 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:29:23,355 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e5a1ae58fe472078391b2480c8c48afc).
+2025-07-02 12:29:25,392 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:29:25,394 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:29:25,394 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:29:25,395 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:29:25,395 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:29:25,395 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 12:46:33,968 - bot.data_collector - INFO - Exported 725 credentials to data/exports/caeaahab_validation_hits_20250702_124633.csv
+2025-07-02 12:46:34,039 - bot.data_collector - INFO - Exported 725 credentials to data/exports/caeaahab_validation_hits_20250702_124633.json
+2025-07-02 12:46:34,075 - bot.data_collector - INFO - Exported 725 simplified credentials to data/exports/caeaahab_validation_hits_20250702_124633_simple.csv
+2025-07-02 12:46:34,093 - bot.data_collector - INFO - Exported 725 simplified credentials to data/exports/caeaahab_validation_hits_20250702_124633_simple.json
+2025-07-02 12:51:48,587 - bot.data_collector - INFO - Exported 3 credentials to data/exports/caeaahab_validation_hits_20250702_125148.csv
+2025-07-02 12:51:48,605 - bot.data_collector - INFO - Exported 3 credentials to data/exports/caeaahab_validation_hits_20250702_125148.json
+2025-07-02 12:51:48,606 - bot.data_collector - INFO - Exported 3 simplified credentials to data/exports/caeaahab_validation_hits_20250702_125148_simple.csv
+2025-07-02 12:51:48,606 - bot.data_collector - INFO - Exported 3 simplified credentials to data/exports/caeaahab_validation_hits_20250702_125148_simple.json
+2025-07-02 12:55:58,589 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:55:58,590 - discord.client - INFO - logging in using static token
+2025-07-02 12:55:59,475 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:55:59,475 - __main__ - INFO - Automated data collection started
+2025-07-02 12:55:59,476 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:56:00,168 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: beef1112b4f4cd9aaae1b15a186dff2d).
+2025-07-02 12:56:02,192 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:56:02,194 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:56:02,195 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:56:02,195 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:56:02,195 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:56:02,196 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 12:57:55,323 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 12:57:55,324 - discord.client - INFO - logging in using static token
+2025-07-02 12:57:56,240 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 12:57:56,240 - __main__ - INFO - Automated data collection started
+2025-07-02 12:57:56,240 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 12:57:57,243 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ec19b6051c7843a8df8e7cf4287ba949).
+2025-07-02 12:57:59,265 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 12:57:59,267 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 12:57:59,267 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 12:57:59,268 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 12:57:59,268 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 12:57:59,269 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 13:03:43,985 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 13:03:43,986 - discord.client - INFO - logging in using static token
+2025-07-02 13:03:44,855 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 13:03:44,856 - __main__ - INFO - Automated data collection started
+2025-07-02 13:03:44,856 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 13:03:46,795 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 43378ef20c17c2151253737cfd4c9eec).
+2025-07-02 13:03:48,799 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 13:03:48,800 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 13:03:48,800 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 13:03:48,801 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 13:03:48,801 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 13:03:48,802 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
+2025-07-02 13:05:02,545 - bot.data_collector - INFO - Exported 6 credentials to data/exports/caeaahab_validation_hits_20250702_130502.csv
+2025-07-02 13:05:02,545 - bot.data_collector - INFO - Exported 6 credentials to data/exports/caeaahab_validation_hits_20250702_130502.json
+2025-07-02 13:05:02,546 - bot.data_collector - INFO - Exported 6 simplified credentials to data/exports/caeaahab_validation_hits_20250702_130502_simple.csv
+2025-07-02 13:05:02,549 - bot.data_collector - INFO - Exported 6 simplified credentials to data/exports/caeaahab_validation_hits_20250702_130502_simple.json
+2025-07-02 13:08:21,608 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 13:08:21,611 - discord.client - INFO - logging in using static token
+2025-07-02 13:08:22,399 - bot.data_collector - INFO - Started automated data collection
+2025-07-02 13:08:22,399 - __main__ - INFO - Automated data collection started
+2025-07-02 13:08:22,400 - __main__ - INFO - Bot setup completed successfully
+2025-07-02 13:08:23,306 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7cce8715d3984149c8e02ee45bb76433).
+2025-07-02 13:08:25,313 - bot.data_collector - INFO - Bot is ready, automated collection will start
+2025-07-02 13:08:25,314 - __main__ - INFO - Lord#9715 has connected to Discord!
+2025-07-02 13:08:25,314 - __main__ - INFO - Bot is in 1 guilds
+2025-07-02 13:08:25,316 - __main__ - INFO - Connected to guild: ACCOUNTSTEAL (ID: 1379689478129451068)
+2025-07-02 13:08:25,316 - bot.data_collector - INFO - Running automated data collection...
+2025-07-02 13:08:25,318 - bot.data_collector - INFO - Collected daily stats for ACCOUNTSTEAL
